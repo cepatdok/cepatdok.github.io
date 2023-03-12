@@ -1,16 +1,16 @@
-Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Currency code,Budget type,Bid strategy type,Language,Location,Exclusion,Devices,Status,Ad group status,Ad group,Ad group type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Description,Description 2,Final URL,Keyword status,Keyword,Type,customer ID
-Ad group,Add,,WebBaru,,,,,,,,,,,Eligible,Enabled,WbAp,Standard,,,,,,,,,,,,106-724-4178
-Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,WbAp,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://cepatdok.web.app,,,,106-724-4178
-Keyword,Add,,WebBaru,,,,,,,,,,,Eligible,,WbAp,,,,,,,,,,Enabled,pembersih kaca,Broad match,106-724-4178
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,WebBaru,,,,,,,,,,,Eligible,Enabled,FrBs,Standard,,,,,,,,,,,,106-724-4178
-Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,FrBs,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://cepatdok.firebaseapp.com,,,,106-724-4178
-Keyword,Add,,WebBaru,,,,,,,,,,,Eligible,,FrBs,,,,,,,,,,Enabled,pembersih kaca,Broad match,106-724-4178
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Currency code,Budget type,Bid strategy type,Language,Location,Exclusion,Devices,Status,Ad group status,Ad group,Ad group type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Description,Description 2,Final URL,Keyword status,Keyword,Type
+Ad group,Add,,WebBaru,,,,,,,,,,,Eligible,Enabled,SgSh,Standard,,,,,,,,,,,
+Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,SgSh,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://dktrcepat.surge.sh,,,
+Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,SgSh,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://dktrcepat.surge.sh,,,
+Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,SgSh,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://dktrcepat.surge.sh,,,
+Keyword,Add,,WebBaru,,,,,,,,,,,Eligible,,SgSh,,,,,,,,,,Enabled,pembersih kaca,Broad match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,WebBaru,,,,,,,,,,,Eligible,Enabled,Deno,Standard,,,,,,,,,,,
+Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,Deno,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://dktercepat.deno.dev,,,
+Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,Deno,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://dktercepat.deno.dev,,,
+Ad,Add,,WebBaru,,,,,,,,,,,Eligible,,Deno,,Enabled,Responsive search ad,Pembersih Kaca,Kinclong tanpa noda,Murah praktis,"Pembersih kaca, wangi dan mudah bersih","Untuk rumah, hotel, industri",https://dktercepat.deno.dev,,,
+Keyword,Add,,WebBaru,,,,,,,,,,,Eligible,,Deno,,,,,,,,,,Enabled,pembersih kaca,Broad match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
